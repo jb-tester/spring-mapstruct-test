@@ -1,0 +1,25 @@
+###
+GET http://localhost:8080/car2view?
+    name=VW%20Passat
+
+###
+GET http://localhost:8080/view2car?
+    name=Honda%20Civic
+
+###
+GET http://localhost:8080/user2view?
+    name=ivan
+
+###
+GET http://localhost:8080/view2user?
+    name=maria
+
+###
+GET http://localhost:8080/issue2view?
+    name=foo
+
+###
+GET http://localhost:8080/view2issue?
+    name=bar
+
+###
